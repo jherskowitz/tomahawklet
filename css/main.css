@@ -3,7 +3,7 @@ body {
     font-family: Arial,Helvetica;
     color: #3A3A3A;
     margin: 0px;
-    background: #E7E2D9;
+    background: #FFFFFF;
 }
 
 html {
@@ -47,7 +47,7 @@ html {
 #playgrub-footer{
     position: relative;
     height: 24px;
-    background: #4C3327;
+    background: #FF004C;
     color: #C07C54;
     padding: 6px 0px 0px 20px;
     font-size: 12px;
@@ -70,17 +70,17 @@ html {
 }
 
 #playgrub-main a:link {
-    color: #000000;
+    color: #ffffff;
 }
 #playgrub-main a:visited {
-    color: #000000;
+    color: #ffffff;
 }
 #playgrub-main a:active {
-    color: #000000;
+    color: #ffffff;
 }
 #playgrub-main a:hover {
-    color: #ffffff;
-    background-color: #000000
+    color: #ff004c;
+    background-color: #1d1d1d
 }
 
 img {
@@ -99,7 +99,7 @@ img {
 #playgrub-icon {
     height: 45px;
     width: 233px;
-    background: #E7E2D9;
+    background: #1d1d1d;
     margin-bottom: 10px;
     margin-left: -5px;
     -moz-border-radius-topleft: 7px;
@@ -128,7 +128,7 @@ img {
     margin-bottom: 20px;
     text-align: left;
     font-size: 16px;
-    color: #000000;
+    color: #ffffff;
 }
 
 #playgrub-icon-description-text {
