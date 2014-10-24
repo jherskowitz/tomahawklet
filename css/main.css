@@ -146,6 +146,19 @@ img {
     clear: left;
 }
 
+#playgrub-supported a:link {
+    color: #ff004c;
+}
+#playgrub-supported a:visited {
+    color: #1d1d1d;
+}
+#playgrub-supported a:active {
+    color: #ff004c;
+}
+#playgrub-supported a:hover {
+    color: #ff004c;
+    background-color: #ffffff;
+
 #get-playdar {
     position: absolute;
     bottom: 15px;
